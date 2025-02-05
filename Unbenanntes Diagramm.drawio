@@ -22,11 +22,11 @@
         <mxCell id="zbwMCri0qh1lunIGQeWZ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="460" y="460" width="540" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="zbwMCri0qh1lunIGQeWZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7026571954dc6520-1" vertex="1">
+        <mxCell id="zbwMCri0qh1lunIGQeWZ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry y="760" width="1050" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zbwMCri0qh1lunIGQeWZ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="90" y="160" width="170" height="140" as="geometry" />
+        <mxCell id="zbwMCri0qh1lunIGQeWZ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FAFF;strokeColor=#6c8ebf;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="50" y="150" width="250" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
